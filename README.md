@@ -2,3 +2,5 @@ Contains a fork of the go toolchain needed to work with MTE enabled. This repo w
 
 * https://github.com/golang/go/issues/27610
 * https://github.com/golang/go/issues/59090
+
+**2026-02-28 update**: The `go1.26.0-mte.1` tag and newer uses the upstream fix: https://go-review.googlesource.com/c/go/+/749062
