@@ -1,3 +1,5 @@
+**2026-08-19 update**: As of golang 1.27.0, this fork is no longer used.
+
 Contains a fork of the go toolchain needed to work with MTE enabled. This repo will be retired once the following upstream issues are resolved:
 
 * https://github.com/golang/go/issues/27610
